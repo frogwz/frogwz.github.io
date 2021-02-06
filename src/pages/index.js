@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
+    <h1>test</h1>
     <a href='./speed/example-multipleServers-full.html'>multipleServersfull</a>
     <a href='./speed/example-multipleServers-pretty.html'>multipleServerspretty</a>
     <a href='./speed/example-singleServer-basic.html'>singleServerbasic</a>
