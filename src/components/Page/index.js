@@ -1,6 +1,7 @@
 // @flow strict
 export { default } from './Page';
-export const pageQuery = graphql`
+export const pageQuery = graphql
+`
 query {
 allPosts(
 filter: { status: { eq: "publish" } }
